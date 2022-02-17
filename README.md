@@ -9,3 +9,4 @@ Ex: python3 setup.py
 
 usage:
 python3 shscanner -u <url>
+  
